@@ -1,8 +1,8 @@
 ### [Aplikasi Perekaman Toko Buku](http://bookstore-adesug.herokuapp.com/) klik
 ### [Diagram dan penjelasan](https://drive.google.com/file/d/1DsYMeY8FXMdUVxyXjaFOSRkWBNsQ4oB5/view?usp=sharing) klik
 #### By
-- Nama  : Ade Sugiantoro
-- NIM   : 18090064
+- Nama  : Takhrirul Fauzi 
+- NIM   : 18090080
 - Kelas : 6B
 #### Tools
 - Laravel       : Framework PHP
